@@ -34,7 +34,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19:meeting_MjhhNmNkMmQtNTRkNS00ZDlkLTkzNzUtNmVkM2NkMzFlOWJi@thread.v2\/0?context={\"Tid\":\"b8f23f4e-d2df-44dd-b45c-c0e2bb98c2dc\",\"Oid\":\"34cc1667-a898-42dc-97d1-2ad4347dc271\"}"
                 }],
